@@ -1,0 +1,6 @@
+Incoming Email,Generated Reply,Semantic Similarity,ROUGE-L,Overall Score
+"Hello, I received a damaged laptop. Can I replace it?",We're sorry for the inconvenience. We have initiated a replacement.,84.78,90.91,86.62
+I want a refund for my order.,Your refund will be processed within five business days.,69.05,78.26,71.81
+My order has not arrived yet.,We're checking your shipment and will update you shortly.,16.87,28.57,20.38
+I forgot my password.,Please reset your password using the Forgot Password option.,41.69,31.58,38.65
+Please cancel my subscription.,"To cancel your subscription, please log in to your account, go to the Subscriptions section, and click on the Cancel Subscription button. If you need assistance, feel free to reply to this email or contact us directly.",11.58,9.3,10.89
